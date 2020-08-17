@@ -7,3 +7,5 @@ Open Community is a Open Source Project to Allow Communitys of any Size to get O
 We Explore in Practice since 10 Years the Concepts of GiT Managed State Management as it is a BlockChain like Algo it fits Perfect into that.
 
 We Can Create User Groups and Manage Whole Economys with it as it is proven to work with a lot of interactive users and scales well.
+
+At Present The Heart of Open Community is GitLab as it is Open Source.
