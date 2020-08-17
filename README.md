@@ -9,3 +9,7 @@ We Explore in Practice since 10 Years the Concepts of GiT Managed State Manageme
 We Can Create User Groups and Manage Whole Economys with it as it is proven to work with a lot of interactive users and scales well.
 
 At Present The Heart of Open Community is GitLab as it is Open Source.
+
+
+## Every One Invited!
+
